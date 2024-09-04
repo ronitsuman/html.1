@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+    <button> 
+    <a href="index.html"> go back </a>    
+    </button>
+    <h1 style="text-align: center ; text-transform: capitalize;">registration form </h1>
+    <form action="/submit_form" method="post">
+       
+
+        <!-- Text Input -->
+
+        <label for="name">Name:</label>
+        <br>
+        <input type="text" id="name" name="name"
+         required>
+        <br><br>
+
+        <!-- Email Input -->
+
+        <label for="email">Email:</label>
+        <br>
+        <input type="email" id="email" 
+        name="email" required>
+        <br><br>
+
+        <!-- Password Input -->
+
+        <label for="password">Password:</label>
+        <br>
+        <input type="password" id="password" 
+        name="password" required>
+        <br><br>
+
+        <!-- Radio Buttons -->
+
+        <label>Gender:</label><br>
+        <input type="radio" id="male"
+         name="gender" value="male">
+        <label for="male">Male</label>
+        <br>
+        <input type="radio" id="female"
+         name="gender" value="female">
+        <label for="female">Female</label><br><br>
+
+        <!-- Checkbox -->
+         
+        <label for="subscribe">
+            <input type="checkbox" id="subscribe" 
+            name="subscribe" value="newsletter">
+            Subscribe to our newsletter
+        </label>
+        <br><br>
+
+        <!-- Dropdown List -->
+
+        <label for="country">Country:</label><br>
+        <select id="country" 
+            name="country">
+            <option value="usa">
+                United States
+            </option>
+            <option value="canada">
+                Canada</option>
+            <option value="uk">
+                United Kingdom
+            </option>
+            <option value="australia">
+                Australia
+            </option>
+        </select>
+        <br><br>
+
+        <!-- Textarea -->
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" 
+        name="message" rows="4" cols="50">
+        </textarea>
+        <br><br>
+
+        <!-- File Input -->
+        <label for="resume">Upload your resume:</label><br>
+        <input type="file" id="resume" 
+        name="resume">
+        <br><br>
+
+        <!-- Submit Button -->
+
+        <input type="submit" value="Submit">
+
+        <!-- Reset Button -->
+        <input type="reset" value="Reset">
+
+        <button> 
+            <a href="index.html"> go back </a>    
+            </button>
+            
+        </form>
+    
+    
+</body>
+</html>
