@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    width: 100%   ;
+}
+.right{
+    text-align: right;
+    color: white;
+    letter-spacing: 5px ;
+    font-stretch: ultra-expanded ;
+    font-weight: 900;
+    word-wrap: break-word ;
+
+}
+.headings{
+    color: blue;
+    font-size: xx-large;
+    margin-top: 50px ;
+    margin-bottom: 30px ;
+    padding: 50px ;
+    
+    
+    
+}
+.attachdown{
+    margin-top: 10px ;
+}
+.attach{
+    margin: 10px ;
+
+}
+.firstlogin{
+    background-color: aliceblue;
+    margin-left: 40px ;
+    line-height: 30px;
+
+}
+.first{
+    background-color: aquamarine;
+    display: flexbox;
+    width: 50% ;
+}
+.second{
+    background-color: grey ;
+    display: flexbox;
+    width: 50% ;
+}
