@@ -3,13 +3,40 @@
     width: 100%   ;
 }
 .right{
-    text-align: right;
+    
     color: white;
-    letter-spacing: 5px ;
-    font-stretch: ultra-expanded ;
-    font-weight: 900;
-    word-wrap: break-word ;
+    font-style: oblique;
+    font-size: xx-large;
+   text-align: end;
+   letter-spacing: 10px ;
 
+    
+    
+
+}
+.left{
+    font-style: oblique;
+    text-decoration-color: #00a8b5 ;
+    font-size: xx-large;
+}
+.rightadmin{
+    font-size: larger;
+    font-style: oblique;
+    text-align: end;
+    letter-spacing: 2px ;
+    text-transform: uppercase;
+    text-decoration: underline ;
+    color: black ;
+}
+.leftpannel{
+    color:#045e66;
+    font-size: larger;
+    font-style: oblique;
+    text-align: start;
+    text-decoration: underline;
+    letter-spacing: 2px ;
+    text-transform: uppercase;
+    margin-left: 3px ;
 }
 .headings{
     color: blue;
@@ -22,6 +49,20 @@
     
     
 }
+.headings2{
+    color: rgb(233, 233, 240);
+    font-size: xx-large;
+    margin-top: 50px ;
+    margin-bottom: 30px ;
+    padding: 50px ;
+
+    
+    
+    
+}
+.loginform{
+    text-align: center;
+}
 .attachdown{
     margin-top: 10px ;
 }
@@ -33,17 +74,62 @@
     background-color: aliceblue;
     margin-left: 40px ;
     line-height: 30px;
-    margin-right: 3px ;
+    margin-right: 0px ;
     align-items: center ;
 
 }
+.firstlogin2{
+    background-color:#00a8b5;
+    margin-right: 40px ;
+    line-height: 30px;
+    margin-left : 0px ;
+    align-items: center ;
+    background-image: url(./images/Minimalist\ Hospital\ and\ Medical\ Health\ Logo\ \(2\).png );
+    background-size: cover;
+    background-position: 0%;
+    height: 365px;
+    
+    
+   
+
+}
+.secondlogin{
+    background-color: rgb(66, 114, 156);
+    margin-right: 40px ;
+    margin-top: 0px;
+    padding: 10px;
+    margin-left: 0px ;
+    text-transform: capitalize;
+    height: 400px;
+    
+
+}
+.image{
+    min-width: fit-content;
+    
+}
+.left{
+    text-align: left;
+    color: #045e66 ;
+    letter-spacing: 5px ;
+    font-stretch: ultra-expanded ;
+    font-weight: 900;
+    word-wrap: break-word ;
+
+
+}
+.managmentsystem{
+    color: blueviolet;
+    
+    
+}
 .first{
-    background-color: aquamarine;
+    background-color:#00a8b5;
     display: flexbox;
     width: 50% ;
 }
 .second{
-    background-color: grey ;
+    background-color:#f2f2f2 ;
     display: flexbox;
     width: 50% ;
 }
