@@ -13,10 +13,11 @@
 }
 .headings{
     color: blue;
-    font-size: xx-large;
-    margin-top: 50px ;
+    font-size: x-large;
+    /* margin-top: 50px ;
     margin-bottom: 30px ;
-    padding: 50px ;
+    padding: 50px ; */
+
     
     
     
@@ -32,6 +33,8 @@
     background-color: aliceblue;
     margin-left: 40px ;
     line-height: 30px;
+    margin-right: 3px ;
+    align-items: center ;
 
 }
 .first{
