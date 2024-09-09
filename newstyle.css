@@ -1,0 +1,51 @@
+.box{
+    border: 2px solid red;
+    /* border-radius: 8%; */
+    width: 350px;
+    height: 510px ;
+    text-transform: capitalize ;
+    /* padding: 3px ; */
+    margin-left: 100px ;
+    margin-top: 50px ;
+    border-top-left-radius: 8% ;
+    border-top-right-radius: 8%;
+
+}
+img{
+    border-top-left-radius: 33px  ;
+    border-top-right-radius: 33px;
+    margin-top: 0px;
+}
+.center1{
+    text-align: center;
+    margin-top: 10px  ;
+    color: red;
+    font-weight: 400 ;
+}
+.center2{
+    margin-top: 0px ;
+    text-align: center;
+    font-weight: 1800 ;
+    margin-top: -12px;
+
+    
+
+
+}
+.down{
+    color: white;
+    background-color: red;
+    align-content: end ;
+    border: 16px solid red ;
+    font-size: xx-large;
+    font-weight: bolder;
+   
+
+
+}
+.a{
+    
+    text-align: center;
+    margin-left: 2px  ;
+    
+}

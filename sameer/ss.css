@@ -1,0 +1,21 @@
+ body{
+    background-color: cadetblue ;
+ }
+ .t{
+    text-transform: capitalize ;
+   
+    margin: 80px ;
+
+
+ }
+ th{
+    background-color: chocolate ;
+    padding: 10px ;
+ }
+ td{
+    text-align: center;
+    padding: 20px ;
+    color: yellow;
+    te
+
+ }
