@@ -15,6 +15,7 @@ img{
     border-top-left-radius: 33px  ;
     border-top-right-radius: 33px;
     margin-top: 0px;
+   
 }
 .center1{
     text-align: center;
@@ -47,5 +48,35 @@ img{
     
     text-align: center;
     margin-left: 2px  ;
+    
+}
+button{
+    margin-top: 20px ;
+    margin-left: 140px ;
+    padding: 4px ;
+    text-transform: capitalize;
+    font-size: 25px;
+    letter-spacing: 4px ;
+    background-color: cadetblue;
+}
+button:hover{
+    color: chartreuse;
+    background-color: black;
+}
+.dropdown{
+    margin-top: 40px ;
+    text-align: center;
+    font-size: x-large;
+}
+select{
+    width: 150px  ;
+    height: 40px;
+    background-color: rgb(29, 235, 156);
+    font-weight: bolder;
+    padding: 8px ;
+}
+select:hover{
+    color: crimson;
+    background-color: turquoise;
     
 }

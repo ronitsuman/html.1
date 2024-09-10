@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+    background-color: lightsalmon;
+    margin: 0px ;
+    width: 100% ;
+    text-transform: capitalize;
+    height: 630px;
+    gap: 5px ;
+    padding: 5px ;
+    
+}
+.first{
+    display: inline-flexbox;
+    width: 120px ;
+    background-color: lightsalmon;
+   
+    text-align: center;
+    margin-top: 200px ;
+    
+    
+}
+.text{
+    border: 2px solid grey ;
+    padding: 5px ;
+    background-color: yellowgreen;
+}
+.lower{
+    border: 4px solid green ;
+    background-color: green;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+span{
+    text-align: end;
+    
+}
+img{
+   
+    
+    
+}
+
+h2{
+    padding: 5px ;
+    background-color: yellowgreen;
+    text-align: center;
+    margin-top: 80px ;
+    color: white ;
+}
+p{
+    
+    padding: 5px ;
+    margin-top: 30px ;
+    text-align: center;
+    font-size: medium;
+}
+.second{
+    display: inline-flexbox;
+    
+    border: 1px solid greenyellow;
+    background-color: darkgrey;
+    width: 300px;
+    
+    
+}
+.third{
+    display: flexbox;
+    width: 300px;
+    border: 1px solid greenyellow;
+    background-color: darkgrey;
+    width: 300px;
+}
+.forth{
+    display: flexbox;
+   border: 2px solid green ;
+   width: 300px;
+   background-color: darkgrey;
+}
+.fifth{
+    display: flexbox;
+   border: 2px solid green ;
+   width: 300px;
+   background-color: darkgrey;
+}
