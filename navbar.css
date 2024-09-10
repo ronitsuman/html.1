@@ -1,0 +1,30 @@
+.mainnew{
+    display:flex;
+    background-color: black;
+    border: 10px solid black ;
+    color: white;
+    width: 100% ;
+    justify-content: space-around;
+    text-transform: capitalize;
+}
+.brand{
+    
+    
+    
+}
+.box1{
+    font-size: 30px  ;
+    padding: 5px ;
+    text-align: center ;
+    width: 50%;
+
+}
+.box2{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly ;
+    font-size: large;
+
+
+   
+}

@@ -1,0 +1,102 @@
+.main{
+    display: flex;
+    background-color: grey;
+    width: 1100px;
+    height: 450px ;
+    justify-content: space-evenly;
+}
+.main2 {
+    display: flex;
+    background-color: grey;
+    width: 1100px;
+    height: 450px ;
+    justify-content: space-between;
+}
+.main3 {
+    display: flex;
+    background-color: grey;
+    width: 1100px;
+    height: 450px ;
+    justify-content: space-around;
+}
+.second{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.third{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+
+}
+.forth{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+
+}
+.fifth{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+
+}
+.second3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.third3{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+
+}
+.forth3{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+
+}
+.fifth3{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+
+}
+.second2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.third2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+
+}
+.forth2{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+
+}
+.fifth2{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+
+}
+/* .sixth{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(44, 160, 69);
+
+}
+.seventh{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(44, 160, 69);
+
+} */
