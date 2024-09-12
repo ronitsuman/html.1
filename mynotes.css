@@ -1,0 +1,23 @@
+li{
+    
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px ;
+    list-style-type: square ;
+    
+    
+    
+
+}
+body{
+    color: aliceblue;
+    background-color: black;
+    text-transform: capitalize;
+    text-align: center;
+}
+ul{
+    margin: 10px ;
+    padding: 20px ;
+    background-color: darkolivegreen;
+    
+}
