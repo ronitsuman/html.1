@@ -1,0 +1,57 @@
+/* Body ka style */
+body {
+    font-family: Arial, sans-serif; /* Font set kiya */
+    background-color: #f4f4f4; /* Halka grey background */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header ka style */
+.header {
+    background-color: #ff9900; /* Orange background (Blinkit ka brand color) */
+    color: white; /* White text */
+    padding: 20px;
+    text-align: center; /* Text ko center kiya */
+}
+
+/* Main content section */
+.main {
+    padding: 20px;
+}
+
+/* Section titles ka color orange */
+.section h2 {
+    color: #ff9900;
+}
+
+/* Products ko flexbox se layout kar rahe hain */
+.products {
+    display: flex; /* Flexbox layout */
+    gap: 20px; /* Products ke beech me space */
+    justify-content: space-around; /* Products ko evenly spread kar diya */
+}
+
+/* Har ek product box ka style */
+.product {
+    background-color: white; /* White background har product ke liye */
+    padding: 10px;
+    border: 1px solid #ddd; /* Halka grey border */
+    text-align: center;
+}
+
+/* Product images ka size control */
+.product-img {
+    width: 150px;
+    height: auto;
+}
+
+/* Footer ka style */
+.footer {
+    background-color: #333; /* Dark background */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
