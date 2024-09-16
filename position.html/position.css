@@ -44,8 +44,13 @@
     background-color: rgb(255, 0, 212);
     
     top: 0%;
-    position: absolute;
-    top: 2%;
+    /* position: absolute; */
+    /* position: fixed; */
+
+    /* position: fixed; */
+    
+    
+    bottom: 20%;
   
     z-index: 7;
     border: 2px solid greenyellow;
