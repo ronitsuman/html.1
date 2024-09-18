@@ -1,0 +1,275 @@
+.main{
+    display: flex;
+    border: 1px solid rgb(241, 240, 240);
+    height: 70px;
+    background-color: #ffff;
+    text-transform: capitalize;
+
+
+
+    
+}
+.orange{
+    font-size: 35px;
+    font-weight: bolder;
+    color: #f7cb45;
+    
+    
+
+}
+hr{
+    margin-left: 10px;
+}
+.green{
+    font-size: 35px;
+    font-weight: bolder;
+    color: #54b325;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    
+}
+.adress{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 10px;
+
+    
+
+}
+.bold{
+    font-weight: bolder;
+    font-size: x-large;
+    
+    
+
+}
+.smalltext{
+    margin-top: 2px;
+    
+    
+
+}
+
+.searchbox{
+    position: absolute;
+    margin-left: 440px;
+    margin-top: -10px;
+    
+
+}
+input{
+    width: 500px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #f7f7f7;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid #f7f7f7;
+}
+.buttons{
+    /* margin-left: 320px; */
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    /* gap: 100px;
+    width: 0px; */
+    /* margin-left: 220px; */
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 15px;
+    
+
+}
+button{
+    
+    width: 120px;
+    height: 40px;
+}
+.mycart{
+    margin-left: 60px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    font-size: large;
+    text-transform: capitalize;
+    
+}
+.mycart:hover{
+    background-color: #f7f7f7;
+    color: black ;
+}
+.login{
+    text-transform: capitalize;
+    font-size: 22px;
+    background-color: #ffff;
+    border: 0px;
+    border-radius: 20px;
+}
+.login:hover{
+    background-color: green;
+    color: aliceblue;
+}
+.banner{
+    width: 1300px;
+    margin-left: 10px;
+    margin-top: 4px;
+    
+}
+.three{
+    display: flex;
+    width: 1050px;
+    margin-left: 25px;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.three1{
+    width: 330px;
+    height: 195px;
+}
+.mains1{
+    width: 1300px;
+    display: flex;
+    margin-left: 25px;
+    justify-content: space-evenly;
+}
+.slices1{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices2{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices3{
+    background-color: #54b325;
+    width: 110px;
+    height: 170;
+    
+}
+.slices4{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices5{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices6{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices7{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices8{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices9{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices10{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.slices11{
+    background-color: #54b325;
+    width: 110px;
+    height: 170px;
+}
+.products {
+    padding: 40px 0;
+    background-color: #f7f7f7;
+}
+
+.products h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.product-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.product-item {
+    width: 150px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+}
+
+.product-item img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.product-item button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* /* footer {
+    
+    color: white;
+    
+    
+} */
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-links li a {
+    /* color: white; */
+    text-decoration: none;
+}
+.main{
+    font-size: larger;
+    text-transform: capitalize;
+    
+    
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+} */
+
+
+
+
+
+
+
+
+
+
